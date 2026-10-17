@@ -1,6 +1,6 @@
-# Hi, I'm Samuel Philip
+![Samuel Philip, full-stack and mobile engineer](banner.png)
 
-I'm a full-stack and mobile engineer in New York, finishing my M.S. in Computer Science at Stevens Institute of Technology (May 2027). I build products end to end, from the app and the backend to the servers they run on.
+Hi, I'm Samuel. I'm a full-stack and mobile engineer in New York, finishing my M.S. in Computer Science at Stevens Institute of Technology (May 2027). I build products end to end, from the app and the backend to the servers they run on.
 
 Some of what that's looked like: a university app that reached 13,000+ installs, an events and payments portal handling $580K+ a month, and a ride-hailing app that has supported 50,000+ rides. These days I spend most of my time on AI agents and on-device models.
 
